@@ -42,6 +42,3 @@ In future, I will shift contents into a Wiki and use this README to just provide
 
 You can clone it in a local env and run it with the command `ruby blockchain_generator.rb`. 
 
-### Others
-
-If you have thoughts, feedback - please feel free to reach out at pramodhdev2015@gmail.com
